@@ -154,7 +154,6 @@ section h2 {
     margin-bottom: 10px;
 }
 
-
 /* ========== SKILLS ========== */
 
 .skills-container {
@@ -184,7 +183,7 @@ section h2 {
 /* ========== EDUCATION ========== */
 
 table {
-    width: 100%;
+    width: 90%;
     border-collapse: collapse;
     background-color: #020617;
     border-radius: 12px;
